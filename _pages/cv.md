@@ -93,3 +93,9 @@ redirect_from:
 * Innovation & Entrepreneurship Training Program Award (SEU)
 * Excellence Award for Social Practice (SEU)
 * Award for Learning Progress (SEU)
+
+## INTERESTS
+======
+* 🌴 **Beach Enthusiast**: Passionate about coastal environments and marine ecosystems
+* 🌍 **Global Explorer**: Enjoy discovering new cultures and destinations worldwide
+* 🍕 **Culinary Adventurer**: Dedicated to finding unique pizza experiences across different regions
