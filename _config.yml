@@ -17,12 +17,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xuwen Zhao"
-  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  email            : "xuwenzhao3-c@my.cityu.edu.hk" 
 
   # Academic websites
   academia         : # URL
