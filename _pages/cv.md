@@ -96,6 +96,4 @@ redirect_from:
 
 ## INTERESTS
 ======
-* 🌴 **Beach Enthusiast**: Passionate about coastal environments and marine ecosystems
-* 🌍 **Global Explorer**: Enjoy discovering new cultures and destinations worldwide
-* 🍕 **Culinary Adventurer**: Dedicated to finding unique pizza experiences across different regions
+* I love the beach and enjoy travelling around the world to new places to find new pizzas to eat.
