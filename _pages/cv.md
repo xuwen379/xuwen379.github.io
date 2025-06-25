@@ -14,12 +14,10 @@ redirect_from:
 ## EDUCATION
 ======
 * **City University of Hong Kong, Hong Kong SAR**  
-  M.Sc. in Materials Engineering and Nanotechnology  
-  *Sep 2022 - Jun 2023*  
+  M.Sc. in Materials Engineering and Nanotechnology (*Sep 2022 - Jun 2023*)
 
 * **Southeast University, Nanjing, China**  
-  B.Eng. in Materials Science and Engineering 
-  *Sep 2015 - Jun 2019*  
+  B.Eng. in Materials Science and Engineering (*Sep 2015 - Jun 2019*)
 
 ## WORK EXPERIENCE
 ======
