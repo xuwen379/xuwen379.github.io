@@ -6,7 +6,7 @@ title                    : "Xuwen Zhao / Academic Pages"
 title_separator          : "-"
 name                     : &name "Xuwen Zhao"
 description              : &description "Academic Pages"
-url                      : https://xuwen379.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://xuwen379.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuwen379/xuwen379.github.io"
 
@@ -16,8 +16,8 @@ repository               : "xuwen379/xuwen379.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Xuwen Zhao"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
