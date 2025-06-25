@@ -16,41 +16,19 @@ redirect_from:
 * **M.Sc. in Materials Engineering and Nanotechnology**  
   City University of Hong Kong, Hong Kong SAR  
   *Sep 2022 - Jun 2023*  
-  GPA: 3.49/4.0  
-  Relevant Courses:  
-  - Instrumentation for Materials Characterization  
-  - Nanomaterials Design for Energy Applications  
-  - Thermodynamics of Materials
 
 * **B.Eng. in Materials Science and Engineering**  
   Southeast University, Nanjing, China  
   *Sep 2015 - Jun 2019*  
-  GPA: 3.12/4.0  
-  Relevant Courses:  
-  - Fundamentals of Material Science (93/100)  
-  - Preparation and Application of Nanomaterials (85/100)  
-  - Physical Chemistry (86/100)  
-  - Environmental Materials (97/100)
 
 ## WORK EXPERIENCE
 ======
 * **Senior Engineer**  
-  BYD Co., Ltd.  
-  *Jul 2023 - Present*  
-  - Managed full lifecycle of instrument panel system (CCB&IP) for Denza brand EVs (Z9/N9 models)
-  - Optimized product design achieving 100% trial production issue closure rate
-  - Resolved critical project challenges:  
-    ✓ Battery-negative avoidance through duct retraction  
-    ✓ Mildew prevention via fluoropolymer coating system
-  - Conducted competitive analysis for interior/exterior design benchmarking
-
+  BYD Co., Ltd. (*Jul 2023 - Present*)
+ 
 * **Quality Control Inspector**  
-  Shanxi Taihang Pipeline Technology Co., Ltd.  
-  *Jul 2019 - Mar 2022*  
-  - Implemented defect analysis (stress corrosion/fatigue cracks, porosity)
-  - Utilized metallographic analysis and SEM-EDS for weld defect diagnosis
-  - Improved pipe quality by 3% through production feedback system
-
+  Shanxi Taihang Pipeline Technology Co., Ltd. (*Jul 2019 - Mar 2022*)
+ 
 ## RESEARCH EXPERIENCE
 ======
 * **Fe³⁺ Doped Cs₂AgBiBr₆ High-Performance Photodetector**  
