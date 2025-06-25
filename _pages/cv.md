@@ -13,21 +13,21 @@ redirect_from:
 
 ## EDUCATION
 ======
-* **M.Sc. in Materials Engineering and Nanotechnology**  
-  City University of Hong Kong, Hong Kong SAR  
+* **City University of Hong Kong, Hong Kong SAR**  
+  M.Sc. in Materials Engineering and Nanotechnology  
   *Sep 2022 - Jun 2023*  
 
-* **B.Eng. in Materials Science and Engineering**  
-  Southeast University, Nanjing, China  
+* **Southeast University, Nanjing, China**  
+  B.Eng. in Materials Science and Engineering 
   *Sep 2015 - Jun 2019*  
 
 ## WORK EXPERIENCE
 ======
-* **Senior Engineer**  
-  BYD Co., Ltd. (*Jul 2023 - Present*)
+* **BYD Co., Ltd.**  
+  Senior Engineer (*Jul 2023 - Present*)
  
-* **Quality Control Inspector**  
-  Shanxi Taihang Pipeline Technology Co., Ltd. (*Jul 2019 - Mar 2022*)
+* **Shanxi Taihang Pipeline Technology Co., Ltd.**  
+  Quality Control Inspector (*Jul 2019 - Mar 2022*)
  
 ## RESEARCH EXPERIENCE
 ======
