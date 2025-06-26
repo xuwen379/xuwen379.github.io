@@ -14,7 +14,7 @@ redirect_from:
 
 ## ABOUT ME
 
-I recived my Master’s Degree in Materials Engineering and Nanotechnology, City University of Hong Kong, supervised by Prof. Johnny CY HO, and recived my Bachelor’s degree in Materials Science and Engineering, Southeast, supervised by Prof. Xinquan Yu and Youfa Zhang. My academic journey has equipped me with substantial expertise in materials synthesis, device fabrication and advanced characterization techniques (e.g., XRD, HRTEM and UV-Vis-NIR spectroscopy).
+I recived my Master’s Degree in Materials Engineering and Nanotechnology, City University of Hong Kong, supervised by [Prof. Johnny CY HO](https://scholar.google.com/citations?user=lRil9BYAAAAJ&hl=zh-CN&oi=ao), and recived my Bachelor’s degree in Materials Science and Engineering, Southeast, supervised by [Prof. Xinquan Yu](https://pubmed.ncbi.nlm.nih.gov/?cmd=search&term=Xinquan%20Yu) and [Youfa Zhang](https://scholar.google.co.uk/citations?user=_kqCrlQAAAAJ&hl=en&oi=ao). My academic journey has equipped me with substantial expertise in materials synthesis, device fabrication and advanced characterization techniques (e.g., XRD, HRTEM and UV-Vis-NIR spectroscopy).
 
 ## EDUCATION
 
