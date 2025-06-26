@@ -49,9 +49,9 @@ I recived my Master’s Degree in Materials Engineering and Nanotechnology, City
 ## PUBLICATIONS
 ======
 <ul>
-<li>Chuannan Zhu, <u><b>Xuwen Zhao</b></u>, Xiaosi Zhou* et al. "Uniform implantation of Cu₂S ultrafine nanoparticles into carbon nanowires enables efficient potassium-ion battery anodes", <i>SCIENCE CHINA Materials</i> (2023) <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ngjdpqgAAAAJ&citation_for_view=ngjdpqgAAAAJ:d1gkVwhDpl0C">🔗</a></li>
+<li>Yezhan Li, Zhangxun Lai, You Meng, Wei Wang, Yuxuan Zhang, <u><b>Xuwen Zhao</b></u>, Johnny Ho* et al. "High-performance photodetectors based on two-dimensional perovskite crystals with alternating interlayer cations", <i>Journal of Materiomics</i> (2023) <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ngjdpqgAAAAJ&citation_for_view=ngjdpqgAAAAJ:d1gkVwhDpl0C">🔗</a></li>
 <li>Yuehua Man, Jianlu Sun, <u><b>Xuwen Zhao</b></u>, Xiaosi Zhou* et al. "An ultrastable sodium-ion battery anode enabled by carbon-coated porous NaTi₂(PO₄)₃ olive-like nanospheres", <i>Journal of Colloid and Interface Science</i> (2023) <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ngjdpqgAAAAJ&citation_for_view=ngjdpqgAAAAJ:u5HHmVD_uO8C">🔗</a></li>
-<li>Yezhan Li, Zhangxun Lai, You Meng, Wei Wang, Yuxuan Zhang, <u><b>Xuwen Zhao</b></u>, Johnny Ho* et al. "High-performance photodetectors based on two-dimensional perovskite crystals with alternating interlayer cations", <i>Journal of Materiomics</i> (2023) <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ngjdpqgAAAAJ&citation_for_view=ngjdpqgAAAAJ:u-x6o8ySG0sC">🔗</a></li>
+<li>Chuannan Zhu, <u><b>Xuwen Zhao</b></u>, Xiaosi Zhou* et al. "Uniform implantation of Cu₂S ultrafine nanoparticles into carbon nanowires enables efficient potassium-ion battery anodes", <i>SCIENCE CHINA Materials</i> (2023) <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ngjdpqgAAAAJ&citation_for_view=ngjdpqgAAAAJ:u-x6o8ySG0sC">🔗</a></li>
 </ul>
 
 
