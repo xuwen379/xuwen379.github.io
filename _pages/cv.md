@@ -14,7 +14,6 @@ redirect_from:
 
 ## ABOUT ME
 
-======
 I recived my Master’s Degree in Materials Engineering and Nanotechnology, City University of Hong Kong, supervised by Prof. Johnny CY HO, and recived my Bachelor’s degree in Materials Science and Engineering, Southeast, supervised by Prof. Xinquan Yu and Youfa Zhang. My academic journey has equipped me with substantial expertise in materials synthesis, device fabrication and advanced characterization techniques (e.g., XRD, HRTEM and UV-Vis-NIR spectroscopy).
 
 ## EDUCATION
@@ -48,13 +47,11 @@ I recived my Master’s Degree in Materials Engineering and Nanotechnology, City
 
 
 ## PUBLICATIONS
-
 ======
-
   <ul>
-  <li>Uniform implantation of Cu₂S ultrafine nanoparticles into carbon nanowires enables efficient potassium-ion battery anodes<i>https://scholar.google.com/1</i> (2023)</li>
-  <li>Yuehua Man, Jianlu Sun, <u><b>Xuwen Zhao</b></u>, Xiaosi Zhou* et al. "An ultrastable sodium-ion battery anode enabled by carbon-coated porous NaTi₂(PO₄)₃ olive-like nanospheres", <i>Journal of Colloid and Interface Science</i> (2022)</li>DOI: https://doi.org/10.1016/j.jcis.2022.12.155
-  <li>Yezhan Li, Zhangxun Lai, You Meng, Wei Wang, Yuxuan Zhang, <u><b>Xuwen Zhao</b></u>, Johnny Ho* et al. "High-performance photodetectors based on two-dimensional perovskite crystals with alternating interlayer cations", <i>Journal of Materiomics</i> (2023)</li> DOI: https://doi.org/10.1016/j.jmat.2023.05.003
+  <li>Chuannan Zhu, <u><b>Xuwen Zhao</b></u>, Xiaosi Zhou* et al. "Uniform implantation of Cu₂S ultrafine nanoparticles into carbon nanowires enables efficient potassium-ion battery anodes", <i>SCIENCE CHINA Materials</i> (2023)</li>
+  <li>Yuehua Man, Jianlu Sun, <u><b>Xuwen Zhao</b></u>, Xiaosi Zhou* et al. "An ultrastable sodium-ion battery anode enabled by carbon-coated porous NaTi₂(PO₄)₃ olive-like nanospheres", <i>Journal of Colloid and Interface Science</i> (2023)</li>
+  <li>Yezhan Li, Zhangxun Lai, You Meng, Wei Wang, Yuxuan Zhang, <u><b>Xuwen Zhao</b></u>, Johnny Ho* et al. "High-performance photodetectors based on two-dimensional perovskite crystals with alternating interlayer cations", <i>Journal of Materiomics</i> (2023)</li>
   </ul>
 
 
